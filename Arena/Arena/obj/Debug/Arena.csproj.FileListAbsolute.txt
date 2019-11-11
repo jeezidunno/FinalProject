@@ -1,0 +1,19 @@
+\\gymspit.cz\homedirs\radek.folprecht\documents\visual studio 2015\Projects\Arena\Arena\bin\Debug\Arena.exe.config
+\\gymspit.cz\homedirs\radek.folprecht\documents\visual studio 2015\Projects\Arena\Arena\obj\Debug\Arena.csprojResolveAssemblyReference.cache
+\\gymspit.cz\homedirs\radek.folprecht\documents\visual studio 2015\Projects\Arena\Arena\bin\Debug\Arena.exe
+\\gymspit.cz\homedirs\radek.folprecht\documents\visual studio 2015\Projects\Arena\Arena\bin\Debug\Arena.pdb
+\\gymspit.cz\homedirs\radek.folprecht\documents\visual studio 2015\Projects\Arena\Arena\obj\Debug\Arena.exe
+\\gymspit.cz\homedirs\radek.folprecht\documents\visual studio 2015\Projects\Arena\Arena\obj\Debug\Arena.pdb
+C:\Users\Já\Desktop\Arena\Arena\bin\Debug\Arena.exe.config
+C:\Users\Já\Desktop\Arena\Arena\bin\Debug\Arena.exe
+C:\Users\Já\Desktop\Arena\Arena\bin\Debug\Arena.pdb
+C:\Users\Já\Desktop\Arena\Arena\obj\Debug\Arena.csprojAssemblyReference.cache
+C:\Users\Já\Desktop\Arena\Arena\obj\Debug\Arena.csproj.CoreCompileInputs.cache
+C:\Users\Já\Desktop\Arena\Arena\obj\Debug\Arena.exe
+C:\Users\Já\Desktop\Arena\Arena\obj\Debug\Arena.pdb
+D:\Arena\Arena\bin\Debug\Arena.exe.config
+D:\Arena\Arena\obj\Debug\Arena.exe
+D:\Arena\Arena\obj\Debug\Arena.pdb
+\\gymspit.cz\Homedirs\frantisek.cizek\Desktop\Arena\Arena\bin\Debug\Arena.exe.config
+\\gymspit.cz\Homedirs\frantisek.cizek\Desktop\Arena\Arena\obj\Debug\Arena.exe
+\\gymspit.cz\Homedirs\frantisek.cizek\Desktop\Arena\Arena\obj\Debug\Arena.pdb
